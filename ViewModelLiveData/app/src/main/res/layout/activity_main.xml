@@ -10,7 +10,7 @@
         android:id="@+id/tv_textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInparent="true"
+        android:layout_centerInParent="true"
         android:text="0"
         android:textColor="@color/black"
         android:textSize="40sp" />
@@ -20,7 +20,7 @@
         android:id="@+id/tv_booleanText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
+      android:layout_centerInParent="true"
         android:text="..."
         android:textColor="@color/black"
         android:textSize="20sp"/>
@@ -31,9 +31,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/tv_textView"
         android:layout_centerHorizontal="true"
-        android:layout_margin="10dp"
         android:backgroundTint="@color/black"
         android:text="+1"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white" />
 
 </RelativeLayout>
