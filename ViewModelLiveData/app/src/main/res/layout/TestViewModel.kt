@@ -1,0 +1,4 @@
+package layout
+
+class TestViewModel {
+}
